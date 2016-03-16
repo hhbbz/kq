@@ -1,0 +1,2 @@
+# 考勤系统
+springMVC+mybatis+spring,封装了通用的Mapper,常用的CRUD操作无需手写。整合pageHelper分页和bootstrap模板后台
